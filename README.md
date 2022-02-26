@@ -10,13 +10,13 @@ Having a life goal is me, I'm starting to study Frontend Web developer since mid
 - Block Chain 🪙
 
 # 🌃 Technological Skills
- > **Programming Language**
+ **Programming Language**
 - Javascript <img height="20" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 - Python <img height="20" src="https://img.icons8.com/fluency/50/000000/python.png"/>
 - SQL <img height="20" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png"/>
 - C <img height="20" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 
-> **Tools**
+**Tools**
 - NodeJS <img height="20" src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
 - ReactJS <img height="20" src="https://img.icons8.com/office/16/000000/react.png"/>
 - NextJS 
@@ -25,6 +25,6 @@ Having a life goal is me, I'm starting to study Frontend Web developer since mid
 - Power BI  <img height="20" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/PowerBI.png"/>
 - Microsoft Excel ![exel](https://user-images.githubusercontent.com/48788884/155839576-5f53cf1d-6c37-402e-af9a-3b8785e61904.png)
 
-> Programming Technique
+**Programming Technique**
 - use Functional Programming to coding
 - Know OOP and love this concept!
